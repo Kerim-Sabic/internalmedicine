@@ -1,0 +1,5 @@
+{
+  "name": "MedQuiz: Internal Medicine",
+  "description": "An interactive study and quiz application for Internal Medicine, covering Cardiology, Pulmonology, and related topics based on exam materials.",
+  "requestFramePermissions": []
+}
